@@ -1,0 +1,16 @@
+html{
+    background-color: blanchedalmond;
+}
+header{
+    background-color: white;
+    width: auto;
+    height: 80px;
+    text-align: left;
+}
+.titulo{
+    text-align: center;
+    margin: -50px;
+}
+body{
+    text-align: center;
+}
